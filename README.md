@@ -26,3 +26,9 @@ You will explore the market capitalization of Bitcoin and other cryptocurrencies
 Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
 
 [Python](https://github.com/ykv001/Projects-datacamp/blob/master/sharpe.ipynb)
+
+#### A New Era of Data Analysis in Baseball
+Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
+
+[Python](https://github.com/ykv001/Projects-datacamp/blob/master/sharpe.ipynb)
+
