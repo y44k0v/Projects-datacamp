@@ -11,3 +11,8 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 Use R to make art and create imaginary flowers inspired by nature.
 
 [R](https://github.com/ykv001/Projects-datacamp/blob/master/phyllo-notebook.ipynb)
+
+#### Exploring 67 years of LEGO
+In this project we will explore a database of every LEGO set ever built.
+
+[Python](https://github.com/ykv001/Projects-datacamp/blob/master/exploring_legos.ipynb)
