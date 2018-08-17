@@ -20,4 +20,4 @@ In this project we will explore a database of every LEGO set ever built.
 #### Exploring the Bitcoin cryptocurrency market
 You will explore the market capitalization of Bitcoin and other cryptocurrencies.
 
-[Python](https://github.com/ykv001/Projects-datacamp/blob/master/EXPLORING THE BITCOIN CRYPTOCURRENCY MARKET.ipynb)
+[Python](https://github.com/ykv001/Projects-datacamp/blob/master/EXPLORING_THE_BITCOIN_CRYPTOCURRENCY_MARKET.ipynb)
