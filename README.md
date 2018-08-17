@@ -32,3 +32,7 @@ Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Gia
 
 [Python](https://github.com/ykv001/Projects-datacamp/blob/master/baseball.ipynb)
 
+#### Mobile Games A/B Testing with Cookie Cats
+Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
+
+[Python](https://github.com/ykv001/Projects-datacamp/blob/master/mobileg.ipynb)
