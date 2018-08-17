@@ -16,3 +16,8 @@ Use R to make art and create imaginary flowers inspired by nature.
 In this project we will explore a database of every LEGO set ever built.
 
 [Python](https://github.com/ykv001/Projects-datacamp/blob/master/exploring_legos.ipynb)
+
+#### Exploring the Bitcoin cryptocurrency market
+You will explore the market capitalization of Bitcoin and other cryptocurrencies.
+
+[Python](https://github.com/ykv001/Projects-datacamp/blob/master/EXPLORING THE BITCOIN CRYPTOCURRENCY MARKET.ipynb)
