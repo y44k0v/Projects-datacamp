@@ -36,3 +36,11 @@ Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Gia
 Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
 
 [Python](https://github.com/ykv001/Projects-datacamp/blob/master/mobileg.ipynb)
+
+#### Word frequency in Moby Dick
+Use python to answer the question: What are the most frequent words in Herman Melville's novel Moby Dick?
+
+[Python](https://github.com/ykv001/Projects-datacamp/blob/master/moby.ipynb)
+
+
+
