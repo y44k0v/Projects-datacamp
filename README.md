@@ -1,9 +1,13 @@
 # Projects-datacamp
 Datacamp Projects - jupyter notebooks in R and Python
 
-#### DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING
+#### Dr. Semmelweis and the discovery of handwashing
+Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.
 
 [R](https://github.com/ykv001/Projects-datacamp/blob/master/semmelweiss-notebook_r.ipynb)
 [Python](https://github.com/ykv001/Projects-datacamp/blob/master/semmelweis-notebook_py.ipynb)
 
+#### Phyllotaxis: Draw flowers using mathematics
+Use R to make art and create imaginary flowers inspired by nature.
 
+[R](https://github.com/ykv001/Projects-datacamp/blob/master/phyllo-notebook_r.ipynb)
