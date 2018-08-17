@@ -10,4 +10,4 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 #### Phyllotaxis: Draw flowers using mathematics
 Use R to make art and create imaginary flowers inspired by nature.
 
-[R](https://github.com/ykv001/Projects-datacamp/blob/master/phyllo-notebook_r.ipynb)
+[R](https://github.com/ykv001/Projects-datacamp/blob/master/phyllo-notebook.ipynb)
